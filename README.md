@@ -14,13 +14,13 @@
    git clone https://github.com/AorSat/Simple-Discord-Key-Management-Bot.git
    cd Simple-Discord-Key-Management-Bot
 1. Install dependencies
-   ```bash
+   ```python
    pip install -r requirements.txt
 
 1. Add your bot token
    - นำtokenไปวางที่ `bot.run('ใส่tokenตรงนี้')`
 1. Run bot
-   ```bash
+   ```python
    python discordbot.py
 ---
 ## Requirements
